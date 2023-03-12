@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="[https://cdil.lib.uidaho.edu/images/palouse_sm.jpg](https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRDAFAN81_OF12v0195_L-medium.jpg)" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
