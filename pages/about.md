@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid=["https://digitalcollections.nypl.org/items/af8237f0-8ee5-0132-24ad-58d385a7bbd0"] %}
+{% include feature/jumbotron.html objectid="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRDAFAN81_OF12v0195_L-medium.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
