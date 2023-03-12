@@ -14,14 +14,14 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+EN
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+„Mapping Thonet“ is the visual processing of the image research of my master thesis „The Public Image of Thonet, Photographs 1850-1900“. For this purpose  selected photographic image contents of the research were territorially located. The project was funded by the NEUSTART KULTUR project fund and VG Bild-Kunst in 2021.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+FR
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+„Mapping Thonet“ est le traitement visuel de la recherche d’images pour mon mémoire de master "L'image publique du Thonet, photographies 1850-1900". Pour ce faire, les contenus photographiques sélectionnés de la recherche ont été localisés territorialement. Le projet a été financé par le fonds de projet NEUSTART KULTUR et VG Bild-Kunst dans l´aneé 2021.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+ES
+
+„Mapping Thonet“ es el tratamiento visual de la investigación de imágenes para mi tesis de máster „La imagen pública de Thonet, fotografías 1850-1900“. Para ello se localizaron territorialmente los contenidos de las imágenes fotográficas seleccionadas en la investigación. El proyecto fue financiado por el fondo del proyecto NEUSTART KULTUR y VG Bild-Kunst en el año 2021.
