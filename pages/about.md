@@ -17,7 +17,7 @@ EN
 
 FR
 
-„Mapping Thonet“ est le traitement visuel de la recherche d’images pour mon mémoire de master "L'image publique du Thonet, photographies 1850-1900". Pour ce faire, les contenus photographiques sélectionnés de la recherche ont été localisés territorialement. Le projet a été financé par le fonds de projet NEUSTART KULTUR et VG Bild-Kunst dans l´aneé 2021.
+„Mapping Thonet“ est le traitement visuel de la recherche d’images pour mon thèse de master "L'image publique du Thonet, photographies 1850-1900". Pour ce faire, les contenus photographiques sélectionnés de la recherche ont été localisés territorialement. Le projet a été financé par le fonds de projet NEUSTART KULTUR et VG Bild-Kunst dans l´aneé 2021.
 
 ES
 
